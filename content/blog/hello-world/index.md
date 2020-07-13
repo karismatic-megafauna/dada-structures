@@ -4,24 +4,45 @@ date: "2020-07-12T19:46:42.396Z"
 description: "Or is it a Programming blog, I can't tell..."
 ---
 
-This is a blog about the intersection of parenting and engineering. As I have
-become a parent, I have noticed that many of the strategies that work in
-parenting are similar to those used in my job as a software engineer. And also,
-I thought of this domain name and felt it only appropriate to make my first
-committed attempt to blog a drawn-out, terrible pun.
+## What is this?
 
-The format of this blog will be as follows:
+On January 12th, 2020 I became a father. In anticipation of this event my
+excitement grew at the opportunity to really embrace fatherhood. There was so
+much to do! Where to start! What books do I read? What should his / her name be?
+What programming language should he / she learn first?
 
-## A Parenting Experience
-Something that happens to me as a Parent that triggers some sort of ah-ha moment
-or similarity to programming.
+So many questions. So little time.
 
-## A Learning
-How this relates experience relates to programming or being an engineer.
+So I did the first logical thing I could think of.
 
-That's it!
+Buy a domain name, containing a pun (very important!), that I would never use as
+an elaborate form of procrastination but gave the _illusion_ of productivity.
 
-I hope someone finds this useful, if not I can at least show my children some
-thoughts they inspired, intentional or otherwise.
+And that is how I thought of "dadastructures" the place where I talked about:
 
-:)
+Being a dad and programming?
+
+Or was it giving programming advice to dads?
+
+Or dad advice to programmers?
+
+..._sigh_...
+
+## So this is just some elaborate joke?
+
+No! I am actually going to blog here because there are some good learnings from
+being a father that have helped me become a better programmer and I would like
+to share those. Also I have always wanted to blog and I love being a father and
+programming so this works nicely :)
+
+Here is the tentative format I will be proceeding with.
+
+A post will contain the two following things:
+
+1. An experience from parenting
+2. A learning from that experience which gives programming / tech advice
+
+So, if you want to read some funny stories about being a parent and watch as I
+find a way to relate them to tech, then you are definitely in the right place.
+
+See ya next sprint!
